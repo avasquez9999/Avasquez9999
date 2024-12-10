@@ -4,8 +4,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>ETL/ELT/SQL Projects (R,SQL,PostGress)</b>
-  -[(ELT w/Stock Market Portfolio Optimization )](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  -[ETL W/Elexctricty Load Forecasting](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
+  -[(ELT w/Stock Market Portfolio Optimization )](https://github.com/joshmadakor1/Jwipe.PowerShell))
+  -[ETL W/Elexctricty Load Forecasting](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting))
   
   -  ETL/ELT Projects:(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data Mining/Machine Learning Projects: (R,Python,Excel,SPSS),</b>
