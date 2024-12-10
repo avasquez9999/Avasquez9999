@@ -9,12 +9,11 @@
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
 - <b>Data Mining/Machine Learning Projects: (R,Python,Excel,SPSS),</b>
-  - [Credit Card Fraud Prevention Project](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
-  - [Predictive Modeling: (Forecastin)](https://github.com/avasquez9999/Advanced-Forecasting-Project)
+  - [Credit Card Fraud Classification Project](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
+  - [Predictive Modeling: (forecasting hierarchical data)](https://github.com/avasquez9999/Advanced-Forecasting-Project)
+  - [Predicting Student Performance](https://github.com/avasquez9999/Predicting-Student-Performance)    
+  - [Predicting Housing Prices](https://github.com/avasquez9999/Boston-Housing-predictive-modeling)
 
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)    
-  - [Predictive Modeling: (Forecastin)](https://github.com/avasquez9999/Advanced-Forecasting-Project)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Web Scaping and Web Development: (python)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
