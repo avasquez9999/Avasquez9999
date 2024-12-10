@@ -6,7 +6,7 @@
 - <b>ETL/ELT/SQL Projects (R,SQL,PostGress)</b>
   -  ETL/ELT Projects:(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Data Mining/Machine Learning Projects: (R,Python,Excel,SPSS),</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Credit Card Fraud Prevention Project](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting))
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
