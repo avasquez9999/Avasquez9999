@@ -20,9 +20,7 @@
 - <b>Marketing Projects Projects: (Python, Excel, Enginius, IBM Wattson,SPSS)</b>
   - [STP Analysis (Segment Target Position)](https://github.com/avasquez9999/Positon-Segment-Target-Marketing-Analysis))
   - [Customer Life Time Value Analysis](https://github.com/avasquez9999/Custermer-Life-Time-Value-Model)
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Conjoint Analysis Model]
  - <b>Power Bi</b>
   - [Power Bi DashBoard](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz) 
  - <b>Sytem Analysis and Desighn</b>
