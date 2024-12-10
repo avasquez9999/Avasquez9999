@@ -1,9 +1,9 @@
 
 <h1>Hi, I'm Adrian! 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>ETL/ELT/SQL Projects (R,SQL,PostGress)</b>
+- <b>ETL/ELT/SQL Projects (R,SQL,PostGress),</b>
   -[ELT w/Stock Market Portfolio Optimization ](https://github.com/joshmadakor1/Jwipe.PowerShell)
   -[ETL W/Elexctricty Load Forecasting](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting))
   
