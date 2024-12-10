@@ -7,6 +7,12 @@
   [Credit Card Fraud Prevention Project](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting))
   -[ELT w/Stock Market Portfolio Optimization ](https://github.com/joshmadakor1/Jwipe.PowerShell)
   -[ETL W/Elexctricty Load Forecasting](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting))
+  -  ETL/ELT Projects:</b></i>
+- <b>ETL/ELT/SQL Projects: (R,SQL,PostGress, PG Admin),</b>
+  - [ELT w/Stock Market Portfolio Optimization](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
+  - [ETL W/Elexctricty Load Forecasting](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting))    
+  - [Predictive Modeling: (Forecastin)](https://github.com/avasquez9999/Advanced-Forecasting-Project)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
   -  ETL/ELT Projects:</b></i>
 - <b>Data Mining/Machine Learning Projects: (R,Python,Excel,SPSS),</b>
