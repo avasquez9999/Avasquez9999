@@ -13,11 +13,10 @@
   - [Predicting Student Performance](https://github.com/avasquez9999/Predicting-Student-Performance)    
   - [Predicting Housing Prices](https://github.com/avasquez9999/Boston-Housing-predictive-modeling)
 
-- <b>Web Scaping and Web Development: (python)</b>
-  - [Wb Scrapper Movie Datafrom IBMD ](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
+- <b>Web Scraping and Web Development: (python)</b>
+  - [Wb Scrapper Movie Data from IBMD ](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
+  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
+  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3) 
 - <b>Marketing Projects Projects: (Python, Excel, Enginius, IBM Wattson,SPSS)</b>
   - [STP Analysis (Segment Target Position)](https://github.com/avasquez9999/Positon-Segment-Target-Marketing-Analysis))
   - [Customer Life Time Value Analysis](https://github.com/avasquez9999/Custermer-Life-Time-Value-Model)
