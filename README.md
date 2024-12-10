@@ -11,9 +11,8 @@
   -  ETL/ELT Projects:</b></i>
 - <b>Data Mining/Machine Learning Projects: (R,Python,Excel,SPSS),</b>
   - [Credit Card Fraud Prevention Project](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
-  - https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)    
+  - [Predictive Modeling: (Forecastin)](https://github.com/avasquez9999/Advanced-Forecasting-Project)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Web Scaping and Web Development: (python)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
