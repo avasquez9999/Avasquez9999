@@ -16,16 +16,28 @@
 - <b>Web Scraping and Web Development: (python)</b>
   - [Wb Scrapper Movie Data from IBMD ](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
   - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
-  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3) 
+  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
+  - 
+- <b>Web Scraping and Web Development: (python)</b>
+  - [Star Schema Data Wharehouse W/Dashboard](https://github.com/avasquez9999/Data-Wharhousing-Star-Schema-witth-Interactive-Dashboard/blob/main/README.md))
+  - [Snow Flake Schema Data Wharehouse](https://github.com/avasquez9999/Data-Wharhouse-Snowflake-Schema-witth--Interactive-Dashboard)
+  - [Power Bi Dashboard](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
+    
 - <b>Marketing Projects Projects: (Python, Excel, Enginius, IBM Wattson,SPSS)</b>
   - [STP Analysis (Segment Target Position)](https://github.com/avasquez9999/Positon-Segment-Target-Marketing-Analysis))
   - [Customer Life Time Value Analysis](https://github.com/avasquez9999/Custermer-Life-Time-Value-Model)
-  - [Conjoint Analysis Model]
- - <b>Power Bi</b>
-  - [Power Bi DashBoard](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz) 
- - <b>Sytem Analysis and Desighn</b>
-  - [System Analysis and Design for application similar to Uber](https://github.com/avasquez9999/System-Analysis-and-Disign-for-an-aplication-similar-to-Uber )
-  - [Systems-Analysis-and-desigh-using-IT-Project-Management-Best-Practices](https://github.com/avasquez9999/Systems-Analysis-and-desigh-using-IT-Project-Management-Best-Practices)
+  - [Customer Life Time Value Analysis](https://github.com/avasquez9999/Custermer-Life-Time-Value-Model)
+  - [Conjoint Analysis Model](https://github.com/avasquez9999/Conjoint-Analysis)
+  - [Bass Diffusion Forecasting Customer Adoption Model](https://github.com/avasquez9999/Marketing-Bass-Diffusion-Analysis)
+  
+ - <b>Power Bi:</b>
+  - [Star Schema Data Model]
+  - [SnowFlake Schema Kimbal Data Model]
+  - [Power Bi DashBoard](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
+    
+  - <b>Sytem Analysis and Desighn</b>
+   - [System Analysis and Design for application similar to Uber](https://github.com/avasquez9999/System-Analysis-and-Disign-for-an-aplication-similar-to-Uber )
+   - [Systems-Analysis-and-desigh-using-IT-Project-Management-Best-Practices](https://github.com/avasquez9999/Systems-Analysis-and-desigh-using-IT-Project-Management-Best-Practices)
  - <b>Data Wharhousige</b>
   - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
   - [Power Bi Data Warehouse Solution](
