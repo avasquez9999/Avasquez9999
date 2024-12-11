@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>ETL/ELT/SQL Projects: (R,SQL, PostGress, PG Admin),</b>
+- <b>ETL/ELT/SQL Projects: (R, SQL, PostGress, PG Admin),</b>
   - [ELT w/Stock Market Portfolio Optimization](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
   - [ETL W/Elexctricty Load Forecasting](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)   
   
@@ -12,16 +12,13 @@
   - [Predictive Modeling: (forecasting hierarchical data)](https://github.com/avasquez9999/Advanced-Forecasting-Project)
   - [Predicting Student Performance](https://github.com/avasquez9999/Predicting-Student-Performance)    
   - [Predicting Housing Prices](https://github.com/avasquez9999/Boston-Housing-predictive-modeling)
-
-- <b>Web Scraping and Web Development: (python)</b>
-  - [Wb Scrapper Movie Data from IBMD ](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
-  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
-  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
-  - 
-- <b>Data Warehouse Kimball Methodology: (python, power BI, R, SQL)</b>
+    
+- <b>Data Warehouse Kimball Methodology: (python, Power BI, R, SQL)</b>
   - [Star Schema Data Wharehouse W/Dashboard](https://github.com/avasquez9999/Data-Wharhousing-Star-Schema-witth-Interactive-Dashboard/blob/main/README.md))
   - [Snow Flake Schema Data Wharehouse](https://github.com/avasquez9999/Data-Wharhouse-Snowflake-Schema-witth--Interactive-Dashboard)
+  - [Business Intelligence Data Warehouse Solution](https://github.com/avasquez9999/Data-Wharhousing-Business-Intelegence-System/upload/main)
   - [Power Bi Dashboard](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
+  - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
   - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
 
     
@@ -31,6 +28,11 @@
   - [Customer Life Time Value Analysis](https://github.com/avasquez9999/Custermer-Life-Time-Value-Model)
   - [Conjoint Analysis Model](https://github.com/avasquez9999/Conjoint-Analysis)
   - [Bass Diffusion Forecasting Customer Adoption Model](https://github.com/avasquez9999/Marketing-Bass-Diffusion-Analysis)
+
+- <b>Web Scraping and Web Development: (python)</b>
+  - [Wb Scrapper Movie Data from IBMD ](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
+  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
+  - [Web Scraper University Professor data](https://github.com/avasquez9999/Several-Web-scraping-and-Web-aplication-Projectsject-3)
  
 - <b>Power Bi</b>
   - [Star Schema Data Wharehouse W/Dashboard](https://github.com/avasquez9999/Data-Wharhousing-Star-Schema-witth-Interactive-Dashboard/blob/main/README.md))
@@ -41,9 +43,8 @@
    - [System Analysis and Design for application similar to Uber](https://github.com/avasquez9999/System-Analysis-and-Disign-for-an-aplication-similar-to-Uber )
    - [Systems-Analysis-and-desigh-using-IT-Project-Management-Best-Practices](https://github.com/avasquez9999/Systems-Analysis-and-desigh-using-IT-Project-Management-Best-Practices)
    - [Designed a Data Warehouse Business Intelligence solution for whine distributor](https://github.com/avasquez9999/Data-Wharhousing-Business-Intelegence-System/upload/main)
-- <b>Data Wharhousige</b>
-  - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
-  - [Power Bi Data Warehouse Solution](https://github.com/avasquez9999/Data-Wharhousing-Business-Intelegence-System/upload/main)
+   - 
+
 
 
 
