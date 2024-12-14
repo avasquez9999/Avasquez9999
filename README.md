@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>ETL/ELT/SQL Projects: (R, SQL, PostGress, PG Admin),</b>
-  - [ELT w/Stock Market Portfolio Optimization](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
+  - [ELT w/Stock Market Portfolio Optimization](https://github.com/avasquez9999/Stock-Market-ETL-and-Analytics-Project)
   - [ETL W/Elexctricty Load Forecasting](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)   
   
 - <b>Data Mining/Machine Learning Projects: (R, Python, Excel, SPSS),</b>
