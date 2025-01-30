@@ -21,6 +21,9 @@
   - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
   - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
 
+- <b>Databrick Analysis (python, Power BI, R, SQL)</b>
+  - [Emplyee Attrition Analysis and data visuaization](https://github.com/avasquez9999/Databrick-_SQL_and_Data_Visualization)
+
     
 - <b>Marketing Projects Projects: (Python, Excel, Enginius, IBM Wattson, SPSS)</b>
   - [STP Analysis (Segment Target Position)](https://github.com/avasquez9999/Positon-Segment-Target-Marketing-Analysis))
