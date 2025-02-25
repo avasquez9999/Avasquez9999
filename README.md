@@ -12,6 +12,7 @@
   - [Predictive Modeling: (forecasting hierarchical data)](https://github.com/avasquez9999/Advanced-Forecasting-Project)
   - [Predicting Student Performance](https://github.com/avasquez9999/Predicting-Student-Performance)    
   - [Predicting Housing Prices](https://github.com/avasquez9999/Boston-Housing-predictive-modeling)
+  - [Excel-Machine-Learning-Predicting-Lung-Cancer-Life-Expecancy](https://github.com/avasquez9999/Excel-Machine-Learning-Predicting-Lung-Cancer-Life-Expecancy)
     
 - <b>Data Warehouse Kimball Methodology: (python, Power BI, R, SQL)</b>
   - [Star Schema Data Wharehouse W/Dashboard](https://github.com/avasquez9999/Data-Wharhousing-Star-Schema-witth-Interactive-Dashboard/blob/main/README.md))
