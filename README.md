@@ -50,7 +50,8 @@
    - 
 - <b>PySpark/SQLSpark?MLLib Distrubuted Computing and Machine Learning Projects:</b>
 
-
+https://github.com/avasquez9999/Spark-covert-unstructed-text-file-into-a-DataFrame
+   - [Spark-covert-unstructed-text-file-into-a-DataFrame](https://github.com/avasquez9999/Spark-covert-unstructed-text-file-into-a-DataFrame)
 
 
 
