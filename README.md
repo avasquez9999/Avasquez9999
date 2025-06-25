@@ -23,7 +23,7 @@
   - [Stock Market Data Warhousing](https://github.com/avasquez9999/Stock-Market-ETL-and-Analytics-Project)
     
 - <b> Forcasting with R using rob Hyndmans Fable Package projects: (R, ),</b>
-  - [Forecasting Department sales data](https://github.com/avasquez9999/Stock-Market-ETL-and-Analytics-Project)
+  - [Forecasting Department sales data](https://github.com/avasquez9999/Advanced-Forecasting-Project)
   - 
 - <b>Databrick Analysis (python, Power BI, R, SQL)</b>
   - [Emplyee Attrition Analysis and data visuaization](https://github.com/avasquez9999/Databrick-_SQL_and_Data_Visualization)
