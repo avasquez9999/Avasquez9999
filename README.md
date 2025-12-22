@@ -60,7 +60,8 @@
   - [Ingesting json files in to snowflake wharhous(first stage they copyinto to table](https://github.com/avasquez9999/Snowflake-Pipeline-Ingest-Flatten-JSON-from-S3)
   - [NYC Citi Bike Data Ingestion Pipeline (API to Snowflake)](https://github.com/avasquez9999/NYC-Citi-Bike-Data-Ingestion-Pipeline-API-to-Snowflake-)
   - [Automated Data Pipelines with Snowflake Tasks](https://github.com/avasquez9999/-Automated-Data-Pipelines-with-Snowflake-Tasks/blob/main/README.md )
-  - [Automated Data Pipelines with Snowflake Tasks](https://github.com/avasquez9999/Bike-Trip-Data-Transformation-dbt-Snowflake)
+  - [BIKE Trip Data Transformation Tasks](https://github.com/avasquez9999/Bike-Trip-Data-Transformation-dbt-Snowflake)
+  - [CitiBike-data-transformation-using-snowflake-and-DB](https://github.com/avasquez9999/CitiBike-data-transformation-using-snowflake-and-DBT/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
