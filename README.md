@@ -56,7 +56,7 @@
    - [Working-with-Dataframes-instead-of-RDD-in-Spark](https://github.com/avasquez9999/Working-with-Dataframes-instead-of-RDD-in-Spark)
    - [Using-Spark-Agregation-for-spark-with-customer-and-temperture-data](https://github.com/avasquez9999/Using-Spark-Agregation-for-spark-with-customer-and-temperture-data)
 - <b> Data Enginering Projects:</b>
-  - [Redfin-Data-Pipeline-with-Apache-Airflow-AWS-EMR-EC2-S3-and-VPC]https://github.com/avasquez9999/Redfin-Data-Pipeline-with-Apache-Airflow-AWS-EMR-EC2-S3-and-VPC) 
+  - [Redfin-Data-Pipeline-with-Apache-Airflow-AWS-EMR-EC2-S3-and-VPC](https://github.com/avasquez9999/Redfin-Data-Pipeline-with-Apache-Airflow-AWS-EMR-EC2-S3-and-VPC) 
 
 - <b> Data Wharhousing Project using snowflake and DBT for for transformation:</b>
   - [End To End DBT and Snowflake data wharhous]( https://github.com/avasquez9999/DBT)
